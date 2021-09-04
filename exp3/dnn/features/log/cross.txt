@@ -1,0 +1,12 @@
+bert 特征
+TP: Total: trex: 44, bert: 79, cross: 15
+TN: Total: trex: 19, bert: 16, cross: 11
+cc2vec 特征
+TP: Total: trex: 44, cc2vec: 127, cross: 29
+TN: Total: trex: 19, cc2vec: 6, cross: 6
+doc2vec 特征
+TP: Total: trex: 44, doc2vec: 1, cross: 0
+TN: Total: trex: 19, doc2vec: 24, cross: 19
+word2vec 特征
+TP: Total: trex: 44, word2vec: 154, cross: 44
+TN: Total: trex: 19, word2vec: 6, cross: 5
